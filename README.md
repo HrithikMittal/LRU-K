@@ -16,7 +16,8 @@ known access frequencies are manually assigned to different
 buffer pools of specifically tuned sizes. Unlike such customized
 buffering algorithms however, the LRU-K method
 is self-tuning, and does not rely on external hints about
-workload characteristics. Furthermore, the LRU-K algorithm adapts in real time to changing patterns of access.
+workload characteristics. 
+Furthermore, the LRU-K algorithm adapts in real time to changing patterns of access.
 
 
 
