@@ -1,6 +1,6 @@
 # LRU-K
 It's a page replacement algorithm.<br />
-This method introduces a new approach to database disk buffering, called the LRU-K method.<br/> 
+This method introduces a new approach to database disk buffering,called the LRU-K method.<br/> 
 The basic idea of LRU-K is to keep track of the times of the last K references
 to popular database pages, using this information to statistieally 
 estimate the interarrival times of references on a page
